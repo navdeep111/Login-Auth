@@ -94,9 +94,9 @@ const Login = () => {
               />
             </Form.Group>
             <div className="button-right">
-              <Link to="/">
-                <Button variant="secondary">Cancel</Button>
-              </Link>
+              // <Link to="/">
+              //   <Button variant="secondary">Cancel</Button>
+              // </Link>
               &nbsp;
               {/* <div className="button-right" style={{ textAlign: 'center', marginTop: '10px' }}></div> */}
               <Button type="submit" variant="primary">
