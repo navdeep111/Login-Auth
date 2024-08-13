@@ -94,8 +94,7 @@ const Login = () => {
               />
             </Form.Group>
             <div className="button-right">
-              
-              {/* <div className="button-right" style={{ textAlign: 'right', marginTop: '10px' }}></div> */}
+  
               <Button type="submit" variant="primary">
                 Verify
               </Button>
